@@ -1,6 +1,6 @@
 ### Características
 
-##Proyecto 2 - Algoritmos BFS y DFS
+###Proyecto 2 - Algoritmos BFS y DFS
 Utilizando la biblioteca de grafos desarrollada en el Proyecto1, implementar los algoritmos BFS y DFS (recursivo e iterativo) de tal forma que dado un nodo fuente(s), calculen el árbol inducido por los algoritmos mencionados; es decir, desarrollar los métodos en la clase Grafo:
 def BFS(self, s):
 def DFS_R(self, s):
@@ -12,7 +12,7 @@ Archivos de grafos generados. Tres por cada generador (con 30, 100 y 500 nodos).
 Archivos de grafos calculados. Tres por cada grafo generado (un BFS y dos DFS).
 Imágenes de la visualización de cada grafo (generados y calculados).
 
-## Entrega
+### Entrega
 La rama Proyecto2 cuenta con la carpeta que cumple con lo solicitado, en dicha carpeta encontrará las siguientes carpetas:
 - A_BFS: con los 18 archivo gv de los arboles generados con el algoritmo de busqueda a lo ancho
 -  A_BFS_imagen: con las 18 imagenes generadas utilizando los archivos de la carpeta A_BFS, utilizando el programa Gephi
@@ -29,5 +29,5 @@ Generado con Modelo de BarabasiAlbert, 100 nodos:
 ![](https://github.com/cynthiayustis/AlgoritmosCIC/blob/Proyecto2/Proyecto/Proyecto_2/Grafos_imagen/BarabasiAlbert_100.png?raw=true)
 
 
-Generado del modelo de BarabasiAlbert arbol generado con el algoritmo de busqueda en profundidad iterativo, 100 nodos:
+Generado del modelo de BarabasiAlbert arbol generado con el algoritmo de busqueda en profundidad iterativo, 500 nodos:
 ![](https://github.com/cynthiayustis/AlgoritmosCIC/blob/Proyecto2/Proyecto/Proyecto_2/A_DFSi_imagen/BarabasiAlbert3_DFSi.png?raw=true)
