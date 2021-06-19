@@ -1,0 +1,27 @@
+graph abstract {
+nodo_1(0)->nodo_18(18);
+nodo_1(0)->nodo_21(71);
+nodo_1(0)->nodo_2(75);
+nodo_21(71)->nodo_28(77);
+nodo_18(18)->nodo_26(79);
+nodo_18(18)->nodo_19(81);
+nodo_1(0)->nodo_11(100);
+nodo_18(18)->nodo_29(101);
+nodo_11(100)->nodo_25(118);
+nodo_2(75)->nodo_15(123);
+nodo_29(101)->nodo_30(126);
+nodo_2(75)->nodo_4(138);
+nodo_15(123)->nodo_20(159);
+nodo_20(159)->nodo_23(168);
+nodo_2(75)->nodo_3(170);
+nodo_4(138)->nodo_6(173);
+nodo_4(138)->nodo_10(174);
+nodo_4(138)->nodo_17(179);
+nodo_10(174)->nodo_14(181);
+nodo_20(159)->nodo_27(183);
+nodo_6(173)->nodo_9(224);
+nodo_9(224)->nodo_16(226);
+nodo_6(173)->nodo_8(252);
+nodo_9(224)->nodo_12(292);
+nodo_12(292)->nodo_13(351);
+}
