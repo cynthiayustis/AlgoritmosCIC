@@ -1,0 +1,15 @@
+Malla1: 
+ErdosRenyi1: https://youtu.be/hdwIREIRwh8
+Gilbert1: https://youtu.be/47W7BkspJ2c
+Geografico1:  
+BarabasiAlbert1: https://youtu.be/btDAtpAjgQk
+Dorogovtsev_Mendes1: https://youtu.be/zXubk_BpGQI
+
+
+Malla2: https://youtu.be/InYCQ5Ruf-E
+ErdosRenyi2: https://youtu.be/N1i_rWyKB8Q
+Gilbert2: https://youtu.be/1uTvfipSYyc
+Geografico2:  https://youtu.be/VXbcOwHc9tc
+BarabasiAlbert2: https://youtu.be/InuNlQ5l5Yo
+Dorogovtsev_Mendes2: https://youtu.be/J4kdQYVVhSM
+
